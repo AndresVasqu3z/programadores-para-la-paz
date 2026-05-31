@@ -1,0 +1,1 @@
+Este código crea una ruta POST llamada /reporte que recibe un mensaje enviado por el usuario, lo guarda en la variable mensaje y responde con un objeto JSON confirmando que el reporte fue recibido junto con el mensaje enviado

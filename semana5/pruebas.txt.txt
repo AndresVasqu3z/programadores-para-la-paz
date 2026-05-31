@@ -1,0 +1,10 @@
+Pruebas realizadas en el servidor Express:
+
+1. Ruta http://localhost:3000
+   Al ingresar a esta dirección se muestra la página o mensaje principal definido en la ruta raíz (/).
+
+2. Ruta http://localhost:3000/saludo
+   Al acceder a esta ruta, el servidor responde con un mensaje de saludo configurado en la aplicación.
+
+3. Ruta http://localhost:3000/mensaje/juan
+   Esta ruta utiliza un parámetro dinámico. Al escribir juan en la URL, el servidor devuelve un mensaje personalizado utilizando ese nombre
