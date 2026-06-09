@@ -8,3 +8,4 @@ Repositorio de actividades del curso.
 - Semana 4
 - Semana 5
 - Semana 6
+- Semana 7
