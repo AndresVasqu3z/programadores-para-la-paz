@@ -9,3 +9,5 @@ Repositorio de actividades del curso.
 - Semana 5
 - Semana 6
 - Semana 7
+- Semana 8
+- Semana 9
