@@ -1,0 +1,17 @@
+Entidad: Causa
+
+- id
+- titulo
+- descripcion
+- fecha
+
+Sirve para almacenar la información principal de cada causa comunitaria.
+
+Entidad: Apoyo
+
+- id
+- causa_id
+- nombre
+- fecha
+
+Sirve para registrar el apoyo que una persona brinda a una causa y relacionarlo con la causa correspondiente mediante el campo causa_id.
