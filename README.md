@@ -11,3 +11,6 @@ Repositorio de actividades del curso.
 - Semana 7
 - Semana 8
 - Semana 9
+- Semana 10
+- Semana 11
+- Semana 12
