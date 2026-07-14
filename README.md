@@ -3,6 +3,7 @@
 Repositorio de actividades del curso.
 
 ## Contenido
+- Semana 1 (contenido por separado, no en carpeta)
 - Semana 2
 - Semana 3
 - Semana 4
